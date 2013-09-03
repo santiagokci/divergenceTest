@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lorem ipsum
+=======
+lorem ipsum something
+>>>>>>> a858f5b8f1cc4013cea14752a322226b8df10b8b
